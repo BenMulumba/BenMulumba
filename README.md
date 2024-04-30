@@ -6,6 +6,7 @@ I am a passionated programmer, with a knack for problem solving and a love for c
 
 💻 Framework and library
 
+3
 
 🌱 What I'm Learning
 
@@ -13,7 +14,8 @@ Continuously expanding my knowledge is vital to me. Currently, I'm exploring adv
 
 🚀 Let's Connect
 
-I'm always open to collaboration and eager to learn from fellow developers and enthusiasts. Feel free to reach out to me via email (bmulumba76@gmail.com), and let's build something amazing together!
+I'm always open to collaboration and eager to learn from fellow developers and enthusiasts. Feel free to reach out to me via email <a href="mailto:bmulumba76@gmail.com">bmulumba76@gmail.com</a>, and let's build something amazing together!
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenMulumba&show_icons=true&theme=radical)
