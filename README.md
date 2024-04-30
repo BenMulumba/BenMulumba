@@ -1,6 +1,7 @@
-# 👋 Hi there! My  name is Ben M. a p
+# 👋 Hi there! My  name is Ben M.
 
 Welcome to my Profil.
+
 I am a passionated programmer, with a knack for problem solving and a love for clean, efficient code. I'm constantly exploring new technology and framework to enhance my skills
 
 💻 Framework and library
